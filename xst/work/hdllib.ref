@@ -1,0 +1,29 @@
+AR register_file behavioral //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/register_file.vhd sub00/vhpl22 1457616839
+AR logicircuit behavioral //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/LogiCircuit.vhd sub00/vhpl14 1457519796
+AR mux8 behavioral //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux8.vhd sub00/vhpl05 1457616835
+EN mux8 NULL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux8.vhd sub00/vhpl04 1457616834
+EN mux2_2_1 NULL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux2_2_1.vhd sub00/vhpl16 1457615411
+EN logicircuit NULL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/LogiCircuit.vhd sub00/vhpl13 1457519795
+EN half_adder NULL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/half_adder.vhd sub00/vhpl07 1457637059
+AR controlmemory behavioral "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" sub00/vhpl28 1459246071
+AR datasrcb behavioral //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/dataSrcB.vhd sub00/vhpl19 1457616837
+AR shifter16 behavioral //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/shifter16.vhd sub00/vhpl24 1457616735
+EN memory NULL "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/memory.vhd" sub00/vhpl25 1459245421
+EN mux2_2_1_4_bit NULL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux2_2_1_4_bit.vhd sub00/vhpl20 1457616832
+EN register_file NULL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/register_file.vhd sub00/vhpl06 1457616838
+AR mux2_2_1_4_bit behavioral //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux2_2_1_4_bit.vhd sub00/vhpl21 1457616833
+AR mux4_2_1 behavioral //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux4_2_1.vhd sub00/vhpl12 1457616733
+AR memory behavioral "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/memory.vhd" sub00/vhpl26 1459245422
+EN mux4_2_1 NULL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux4_2_1.vhd sub00/vhpl11 1457616732
+EN adder16 NULL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/adder16.vhd sub00/vhpl09 1457459560
+EN arithcirc NULL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/arithCirc.vhd sub00/vhpl15 1457459562
+EN controlmemory NULL "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" sub00/vhpl27 1459246070
+AR mux_2to1 behavioral //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux_2to1.vhd sub00/vhpl03 1457615387
+EN mux_2to1 NULL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux_2to1.vhd sub00/vhpl02 1457615386
+AR mux2_2_1 behavioral //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux2_2_1.vhd sub00/vhpl17 1457615412
+AR half_adder behavioral //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/half_adder.vhd sub00/vhpl08 1457637060
+AR decoder_3to8 behavioral //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/decoder_3to8.vhd sub00/vhpl01 1457616831
+EN shifter16 NULL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/shifter16.vhd sub00/vhpl23 1457616734
+EN decoder_3to8 NULL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/decoder_3to8.vhd sub00/vhpl00 1457616830
+AR adder16 behavioral //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/adder16.vhd sub00/vhpl10 1457459561
+EN datasrcb NULL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/dataSrcB.vhd sub00/vhpl18 1457616836

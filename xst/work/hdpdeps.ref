@@ -1,0 +1,110 @@
+V3 54
+FL "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" 2016/03/29.11:07:48 O.61xd
+EN work/controlMemory 1459246070 \
+      FL "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" \
+      PB ieee/std_logic_1164 1308643377 PB ieee/std_logic_arith 1308643378 \
+      PB ieee/STD_LOGIC_UNSIGNED 1308643379
+AR work/controlMemory/Behavioral 1459246071 \
+      FL "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" \
+      EN work/controlMemory 1459246070
+FL "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/memory.vhd" 2016/03/29.10:56:58 O.61xd
+EN work/memory 1459245421 \
+      FL "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/memory.vhd" \
+      PB ieee/std_logic_1164 1308643377 PB ieee/std_logic_arith 1308643378
+AR work/memory/Behavioral 1459245422 \
+      FL "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/memory.vhd" \
+      EN work/memory 1459245421
+FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/adder16.vhd 2016/03/08.16:19:28 O.61xd
+EN work/adder16 1457459560 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/adder16.vhd \
+      PB ieee/std_logic_1164 1308643377
+AR work/adder16/Behavioral 1457459561 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/adder16.vhd \
+      EN work/adder16 1457459560 CP half_adder
+FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/arithCirc.vhd 2016/03/08.17:52:35 O.61xd
+EN work/arithCirc 0 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/arithCirc.vhd \
+      PB ieee/std_logic_1164 1308643377
+AR work/arithCirc/Behavioral 0 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/arithCirc.vhd \
+      EN work/arithCirc 0 CP adder16
+FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/dataSrcB.vhd 2016/03/08.15:26:32 O.61xd
+EN work/dataSrcB 1457616836 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/dataSrcB.vhd \
+      PB ieee/std_logic_1164 1308643377
+AR work/dataSrcB/Behavioral 1457616837 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/dataSrcB.vhd \
+      EN work/dataSrcB 1457616836
+FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/decoder_3to8.vhd 2016/02/16.13:11:17 O.61xd
+EN work/decoder_3to8 1457616830 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/decoder_3to8.vhd \
+      PB ieee/std_logic_1164 1308643377
+AR work/decoder_3to8/Behavioral 1457616831 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/decoder_3to8.vhd \
+      EN work/decoder_3to8 1457616830
+FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/half_adder.vhd 2016/03/10.19:10:55 O.61xd
+EN work/half_adder 1457637059 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/half_adder.vhd \
+      PB ieee/std_logic_1164 1308643377
+AR work/half_adder/Behavioral 1457637060 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/half_adder.vhd \
+      EN work/half_adder 1457637059
+FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/LogiCircuit.vhd 2016/03/08.17:52:22 O.61xd
+EN work/LogiCircuit 1457519795 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/LogiCircuit.vhd \
+      PB ieee/std_logic_1164 1308643377
+AR work/LogiCircuit/Behavioral 1457519796 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/LogiCircuit.vhd \
+      EN work/LogiCircuit 1457519795 CP mux4_2_1
+FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux2_2_1.vhd 2016/03/09.10:02:16 O.61xd
+EN work/mux2_2_1 1457615411 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux2_2_1.vhd \
+      PB ieee/std_logic_1164 1308643377
+AR work/mux2_2_1/Behavioral 1457615412 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux2_2_1.vhd \
+      EN work/mux2_2_1 1457615411
+FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux2_2_1_4_bit.vhd 2016/03/10.13:18:34 O.61xd
+EN work/mux2_2_1_4_bit 1457616832 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux2_2_1_4_bit.vhd \
+      PB ieee/std_logic_1164 1308643377
+AR work/mux2_2_1_4_bit/Behavioral 1457616833 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux2_2_1_4_bit.vhd \
+      EN work/mux2_2_1_4_bit 1457616832
+FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux4_2_1.vhd 2016/03/09.10:37:34 O.61xd
+EN work/mux4_2_1 1457616732 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux4_2_1.vhd \
+      PB ieee/std_logic_1164 1308643377
+AR work/mux4_2_1/Behavioral 1457616733 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux4_2_1.vhd \
+      EN work/mux4_2_1 1457616732
+FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux4_to_1.vhd 2016/03/08.16:44:19 O.61xd
+FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux8.vhd 2016/02/16.13:35:26 O.61xd
+EN work/mux8 1457616834 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux8.vhd \
+      PB ieee/std_logic_1164 1308643377
+AR work/mux8/Behavioral 1457616835 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux8.vhd \
+      EN work/mux8 1457616834
+FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux_2to1.vhd 2016/02/16.13:42:02 O.61xd
+EN work/mux_2to1 1457615386 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux_2to1.vhd \
+      PB ieee/std_logic_1164 1308643377
+AR work/mux_2to1/Behavioral 1457615387 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux_2to1.vhd \
+      EN work/mux_2to1 1457615386
+FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/register_file.vhd 2016/03/10.13:22:48 O.61xd
+EN work/register_file 1457616838 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/register_file.vhd \
+      PB ieee/std_logic_1164 1308643377 PB ieee/std_logic_arith 1308643378 \
+      PB ieee/STD_LOGIC_UNSIGNED 1308643379
+AR work/register_file/Behavioral 1457616839 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/register_file.vhd \
+      EN work/register_file 1457616838 CP reg16 CP decoder_3to8 CP mux2_2_1_4_bit \
+      CP mux8 CP dataSrcB
+FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/shifter16.vhd 2016/03/10.12:22:14 O.61xd
+EN work/shifter16 1457616734 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/shifter16.vhd \
+      PB ieee/std_logic_1164 1308643377
+AR work/shifter16/Behavioral 1457616735 \
+      FL //tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/shifter16.vhd \
+      EN work/shifter16 1457616734 CP mux4_2_1

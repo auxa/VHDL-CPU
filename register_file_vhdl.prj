@@ -1,0 +1,5 @@
+vhdl work "\\tholos.itserv.scss.tcd.ie\ugrad\jfitzpa1\CS\Archit\BLab1\mux8.vhd"
+vhdl work "\\tholos.itserv.scss.tcd.ie\ugrad\jfitzpa1\CS\Archit\BLab1\mux2_2_1_4_bit.vhd"
+vhdl work "\\tholos.itserv.scss.tcd.ie\ugrad\jfitzpa1\CS\Archit\BLab1\decoder_3to8.vhd"
+vhdl work "\\tholos.itserv.scss.tcd.ie\ugrad\jfitzpa1\CS\Archit\BLab1\dataSrcB.vhd"
+vhdl work "\\tholos.itserv.scss.tcd.ie\ugrad\jfitzpa1\CS\Archit\BLab1\register_file.vhd"

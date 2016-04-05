@@ -1,0 +1,2 @@
+vhdl isim_temp "registerReset.vhd"
+vhdl isim_temp "regReset_tb.vhd"

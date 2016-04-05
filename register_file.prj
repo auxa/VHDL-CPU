@@ -1,0 +1,5 @@
+vhdl work "mux8.vhd"
+vhdl work "mux2_2_1_4_bit.vhd"
+vhdl work "decoder_3to8.vhd"
+vhdl work "dataSrcB.vhd"
+vhdl work "register_file.vhd"

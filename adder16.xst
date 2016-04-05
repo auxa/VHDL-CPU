@@ -1,0 +1,5 @@
+set -tmpdir "U:/CS/Archit/BLab1/xst/projnav.tmp"
+set -xsthdpdir "U:/CS/Archit/BLab1/xst"
+elaborate
+-ifn adder16.prj
+-ifmt mixed

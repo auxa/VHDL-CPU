@@ -1,0 +1,2 @@
+vhdl isim_temp "zeroDetect.vhd"
+vhdl isim_temp "zeroDetectTest.vhd"

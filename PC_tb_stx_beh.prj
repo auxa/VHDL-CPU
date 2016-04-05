@@ -1,0 +1,5 @@
+vhdl isim_temp "half_adder.vhd"
+vhdl isim_temp "registerReset.vhd"
+vhdl isim_temp "adder16.vhd"
+vhdl isim_temp "ProgramCounter.vhd"
+vhdl isim_temp "PC_tb.vhd"

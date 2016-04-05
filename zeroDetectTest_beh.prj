@@ -1,0 +1,2 @@
+vhdl work "zeroDetect.vhd"
+vhdl work "zeroDetectTest.vhd"

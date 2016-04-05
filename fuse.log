@@ -1,0 +1,78 @@
+Running: C:\Xilinx\13.2\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o U:/CS/Archit/Before Final Lab/BLab1/MCMC_tb_isim_beh.exe -prj U:/CS/Archit/Before Final Lab/BLab1/MCMC_tb_beh.prj work.MCMC_tb 
+ISim O.61xd (signature 0x1cce1bb2)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/half_adder.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/mux4_2_1.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/adder16.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/mux2_2_1.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/LogiCircuit.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/arithCirc.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/zeroDetect.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/shifter16.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/reg16.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/mux8.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/decoder_3to8.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/arithLogUnit.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/register_file.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/registerReset.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/register8bitWide.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/mux2to1_16bit.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/functionalUnit.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/addr8bitwide.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/zeroFill.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/ProgramCounter.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/PCExtend.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/mux821.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/mux2_2_1_4_bit.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/mux2to1_8bit.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/memory.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/InstructionReg.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/datapath.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/ControlAddrRegister.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/MCMC.vhd" into library work
+Parsing VHDL file "U:/CS/Archit/Before Final Lab/BLab1/MCMC_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity registerReset [registerreset_default]
+Compiling architecture behavioral of entity half_adder [half_adder_default]
+Compiling architecture behavioral of entity adder16 [adder16_default]
+Compiling architecture behavioral of entity ProgramCounter [programcounter_default]
+Compiling architecture behavioral of entity mux2_2_1_4_bit [mux2_2_1_4_bit_default]
+Compiling architecture behavioral of entity memory [memory_default]
+Compiling architecture behavioral of entity reg16 [reg16_default]
+Compiling architecture behavioral of entity InstructionReg [instructionreg_default]
+Compiling architecture behavioral of entity mux2to1_8bit [mux2to1_8bit_default]
+Compiling architecture behavioral of entity register8bitWide [register8bitwide_default]
+Compiling architecture behavioral of entity addr8bitwide [addr8bitwide_default]
+Compiling architecture behavioral of entity ControlAddrRegister [controladdrregister_default]
+Compiling architecture behavioral of entity controlMemory [controlmemory_default]
+Compiling architecture behavioral of entity mux821 [mux821_default]
+Compiling architecture behavioral of entity PCExtend [pcextend_default]
+Compiling architecture behavioral of entity zeroFill [zerofill_default]
+Compiling architecture behavioral of entity decoder_3to8 [decoder_3to8_default]
+Compiling architecture behavioral of entity mux8 [mux8_default]
+Compiling architecture behavioral of entity register_file [register_file_default]
+Compiling architecture behavioral of entity mux2to1_16bit [mux2to1_16bit_default]
+Compiling architecture behavioral of entity arithCirc [arithcirc_default]
+Compiling architecture behavioral of entity mux4_2_1 [mux4_2_1_default]
+Compiling architecture behavioral of entity LogiCircuit [logicircuit_default]
+Compiling architecture behavioral of entity mux2_2_1 [mux2_2_1_default]
+Compiling architecture behavioral of entity arithLogUnit [arithlogunit_default]
+Compiling architecture behavioral of entity zeroDetect [zerodetect_default]
+Compiling architecture behavioral of entity shifter16 [shifter16_default]
+Compiling architecture behavioral of entity functionalUnit [functionalunit_default]
+Compiling architecture behavioral of entity datapath [datapath_default]
+Compiling architecture behavioral of entity MCMC [mcmc_default]
+Compiling architecture behavior of entity mcmc_tb
+Time Resolution for simulation is 1ps.
+Compiled 65 VHDL Units
+Built simulation executable U:/CS/Archit/Before Final Lab/BLab1/MCMC_tb_isim_beh.exe
+Fuse Memory Usage: 26552 KB
+Fuse CPU Usage: 4616 ms

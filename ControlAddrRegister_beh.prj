@@ -1,0 +1,4 @@
+vhdl work "half_adder.vhd"
+vhdl work "register8bitWide.vhd"
+vhdl work "addr8bitwide.vhd"
+vhdl work "ControlAddrRegister.vhd"

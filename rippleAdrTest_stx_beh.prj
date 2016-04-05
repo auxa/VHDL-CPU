@@ -1,0 +1,3 @@
+vhdl isim_temp "half_adder.vhd"
+vhdl isim_temp "adder16.vhd"
+vhdl isim_temp "rippleAdrTest.vhd"

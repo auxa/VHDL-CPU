@@ -1,0 +1,64 @@
+Release 13.2 - xst O.61xd (nt64)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to U:/CS/Archit/Before Final Lab/BLab1/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> Parameter xsthdpdir set to U:/CS/Archit/Before Final Lab/BLab1/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" in Library work.
+Entity <controlMemory> compiled.
+ERROR:HDLParsers:3010 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 35. Entity control_memory does not exist.
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 36. Undefined symbol 'std_logic_vector'.
+ERROR:HDLParsers:1209 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 36. std_logic_vector: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 38. Undefined symbol 'IN_CAR'.
+ERROR:HDLParsers:1209 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 38. IN_CAR: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 39. Undefined symbol 'mem_array'.
+ERROR:HDLParsers:1209 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 39. mem_array: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3285 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 39. No array or record type can be found that has elements of types matching the aggregate.
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 78. Undefined symbol 'conv_integer'.
+ERROR:HDLParsers:1209 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 78. conv_integer: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 79. Undefined symbol 'control_out'.
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 79. Undefined symbol 'control_mem'.
+ERROR:HDLParsers:1209 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 79. control_mem: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 80. Undefined symbol 'MW'.
+ERROR:HDLParsers:1209 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 80. control_out: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3313 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 81. Undefined symbol 'MM'.  Should it be: eM?
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 82. Undefined symbol 'RW'.
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 83. Undefined symbol 'MD'.
+ERROR:HDLParsers:3260 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 84. Object name expected: physical literal 'fs' unexpected.
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 85. Undefined symbol 'MB'.
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 86. Undefined symbol 'TB'.
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 87. Undefined symbol 'TA'.
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 88. Undefined symbol 'TD'.
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 89. Undefined symbol 'PL'.
+ERROR:HDLParsers:3313 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 90. Undefined symbol 'PI'.  Should it be: sI?
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 91. Undefined symbol 'IL'.
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 92. Undefined symbol 'MC'.
+ERROR:HDLParsers:3260 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 93. Object name expected: physical literal 'ms' unexpected.
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 94. Undefined symbol 'NA'.
+WARNING:HDLParsers:1406 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/Before Final Lab/BLab1/controlMemory.vhd" Line 38. No sensitivity list and no wait in the process
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.31 secs
+ 
+--> 
+
+Total memory usage is 197876 kilobytes
+
+Number of errors   :   29 (   0 filtered)
+Number of warnings :    2 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

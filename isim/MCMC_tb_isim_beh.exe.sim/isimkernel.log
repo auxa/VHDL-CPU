@@ -1,0 +1,29 @@
+Command line:
+   MCMC_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58351
+
+Tue Apr 05 18:24:58 2016
+
+
+ Elaboration Time: 0.577203 sec
+
+ Current Memory Usage: 502.755 Meg
+
+ Total Signals          : 965
+ Total Nets             : 891
+ Total Signal Drivers   : 288
+ Total Blocks           : 117
+ Total Primitive Blocks : 102
+ Total Processes        : 274
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 1270
+Total Line Count : 326
+
+ Total Simulation Time: 0.811205 sec
+
+ Current Memory Usage: 502.755 Meg
+
+Tue Apr 05 18:25:55 2016
+

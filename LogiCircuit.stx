@@ -1,0 +1,40 @@
+Release 13.2 - xst O.61xd (nt64)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to U:/CS/Archit/BLab1/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.17 secs
+ 
+--> Parameter xsthdpdir set to U:/CS/Archit/BLab1/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.19 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3607 - Unit work/mux4_2_1 is now defined in a different file.  It was defined in "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux4_to_1.vhd", and is now defined in "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux4_2_1.vhd".
+WARNING:HDLParsers:3607 - Unit work/mux4_2_1/Behavioral is now defined in a different file.  It was defined in "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux4_to_1.vhd", and is now defined in "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux4_2_1.vhd".
+Compiling vhdl file "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/mux4_2_1.vhd" in Library work.
+Entity <mux4_2_1> compiled.
+Entity <mux4_2_1> (Architecture <behavioral>) compiled.
+Compiling vhdl file "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/LogiCircuit.vhd" in Library work.
+Entity <logicircuit> compiled.
+Entity <logicircuit> (Architecture <behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.86 secs
+ 
+--> 
+
+Total memory usage is 197748 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    3 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

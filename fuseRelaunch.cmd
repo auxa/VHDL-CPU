@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "U:/CS/Archit/Before Final Lab/BLab1/MCMC_tb_isim_beh.exe" -prj "U:/CS/Archit/Before Final Lab/BLab1/MCMC_tb_beh.prj" "work.MCMC_tb" 

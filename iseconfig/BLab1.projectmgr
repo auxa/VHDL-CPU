@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="BLab1" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/LogiCircuit - Behavioral U:|CS|Archit|BLab1|LogiCircuit.vhd</ClosedNode>
+         <ClosedNode>/MCMC - Behavioral U:|CS|Archit|Before Final Lab|BLab1|MCMC.vhd/CAR - ControlAddrRegister - Behavioral</ClosedNode>
+         <ClosedNode>/MCMC - Behavioral U:|CS|Archit|Before Final Lab|BLab1|MCMC.vhd/datapathFull - datapath - Behavioral/funStuff - functionalUnit - Behavioral</ClosedNode>
+         <ClosedNode>/arithLogUnit - Behavioral U:|CS|Archit|BLab1|arithLogUnit.vhd/arithmeticCircuit - arithCirc - Behavioral/rippleAdder - adder16 - Behavioral</ClosedNode>
+         <ClosedNode>/arithLogUnit - Behavioral U:|CS|Archit|BLab1|arithLogUnit.vhd/logicCircuit - LogiCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/functionalUnit - Behavioral U:|CS|Archit|Before Final Lab|BLab1|functionalUnit.vhd/arithmeticLogicUnit - arithLogUnit - Behavioral/arithmeticCircuit - arithCirc - Behavioral/rippleAdder - adder16 - Behavioral</ClosedNode>
+         <ClosedNode>/functionalUnit - Behavioral U:|CS|Archit|Before Final Lab|BLab1|functionalUnit.vhd/arithmeticLogicUnit - arithLogUnit - Behavioral/logicCircuit - LogiCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/functionalUnit - Behavioral U:|CS|Archit|Before Final Lab|BLab1|functionalUnit.vhd/shifter - shifter16 - Behavioral</ClosedNode>
+         <ClosedNode>/register_file - Behavioral U:|CS|Archit|BLab1|register_file.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>datapathFull - datapath - Behavioral (U:/CS/Archit/Before Final Lab/BLab1/datapath.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >16</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001f2000000020000000000000000000000000200000064ffffffff000000810000000300000002000001f20000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>datapathFull - datapath - Behavioral (U:/CS/Archit/Before Final Lab/BLab1/datapath.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Design Utilities</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Design Utilities</CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>register_file.vhd</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000017c000000040101000100000000000000000000000064ffffffff0000008100000000000000040000008e0000000100000000000000240000000100000000000000660000000100000000000000640000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>register_file.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000003a3000000010001000100000000000000000000000064ffffffff000000810000000000000001000003a30000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ControlAddrRegister - Behavioral U:|CS|Archit|Before Final Lab|BLab1|ControlAddrRegister.vhd</ClosedNode>
+         <ClosedNode>/ControlAddrRegister - Behavioral U:|CS|Archit|Before Final Lab|BLab1|ControlAddrRegister.vhd/add8 - addr8bitwide - Behavioral</ClosedNode>
+         <ClosedNode>/InstructionReg - Behavioral U:|CS|Archit|Before Final Lab|BLab1|InstructionReg.vhd</ClosedNode>
+         <ClosedNode>/MCMC - Behavioral U:|CS|Archit|Before Final Lab|BLab1|MCMC.vhd</ClosedNode>
+         <ClosedNode>/MCMC - Behavioral U:|CS|Archit|Before Final Lab|BLab1|MCMC.vhd/CAR - ControlAddrRegister - Behavioral</ClosedNode>
+         <ClosedNode>/MCMC - Behavioral U:|CS|Archit|Before Final Lab|BLab1|MCMC.vhd/IR - InstructionReg - Behavioral</ClosedNode>
+         <ClosedNode>/MCMC - Behavioral U:|CS|Archit|Before Final Lab|BLab1|MCMC.vhd/datapathFull - datapath - Behavioral/funStuff - functionalUnit - Behavioral/arithmeticLogicUnit - arithLogUnit - Behavioral</ClosedNode>
+         <ClosedNode>/MCMC - Behavioral U:|CS|Archit|Before Final Lab|BLab1|MCMC.vhd/datapathFull - datapath - Behavioral/funStuff - functionalUnit - Behavioral/shifter - shifter16 - Behavioral</ClosedNode>
+         <ClosedNode>/MCMC - Behavioral U:|CS|Archit|Before Final Lab|BLab1|MCMC.vhd/datapathFull - datapath - Behavioral/regFile - register_file - Behavioral</ClosedNode>
+         <ClosedNode>/MCMC - Behavioral U:|CS|Archit|Before Final Lab|BLab1|MCMC.vhd/programCounterComp - ProgramCounter - Behavioral</ClosedNode>
+         <ClosedNode>/MCMC - Behavioral U:|CS|Archit|Before Final Lab|BLab1|MCMC.vhd/programCounterComp - ProgramCounter - Behavioral/add1 - adder16 - Behavioral</ClosedNode>
+         <ClosedNode>/MCMC_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|MCMC_tb.vhd/uut - MCMC - Behavioral/CAR - ControlAddrRegister - Behavioral</ClosedNode>
+         <ClosedNode>/MCMC_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|MCMC_tb.vhd/uut - MCMC - Behavioral/IR - InstructionReg - Behavioral</ClosedNode>
+         <ClosedNode>/MCMC_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|MCMC_tb.vhd/uut - MCMC - Behavioral/datapathFull - datapath - Behavioral</ClosedNode>
+         <ClosedNode>/MCMC_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|MCMC_tb.vhd/uut - MCMC - Behavioral/programCounterComp - ProgramCounter - Behavioral</ClosedNode>
+         <ClosedNode>/PCExtend_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|PCExtend_tb.vhd</ClosedNode>
+         <ClosedNode>/PC_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|PC_tb.vhd</ClosedNode>
+         <ClosedNode>/ProgramCounter - Behavioral U:|CS|Archit|Before Final Lab|BLab1|ProgramCounter.vhd</ClosedNode>
+         <ClosedNode>/ProgramCounter - Behavioral U:|CS|Archit|Before Final Lab|BLab1|ProgramCounter.vhd/add1 - adder16 - Behavioral</ClosedNode>
+         <ClosedNode>/arithcircTest - behavior U:|CS|Archit|Before Final Lab|BLab1|arithcircTest.vhd</ClosedNode>
+         <ClosedNode>/arithcircTest - behavior U:|CS|Archit|Before Final Lab|BLab1|arithcircTest.vhd/uut - arithCirc - Behavioral/rippleAdder - adder16 - Behavioral</ClosedNode>
+         <ClosedNode>/car_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|car_tb.vhd</ClosedNode>
+         <ClosedNode>/controlMemory_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|controlMemory_tb.vhd</ClosedNode>
+         <ClosedNode>/datapath - Behavioral U:|CS|Archit|Before Final Lab|BLab1|datapath.vhd</ClosedNode>
+         <ClosedNode>/datapath - Behavioral U:|CS|Archit|Before Final Lab|BLab1|datapath.vhd/funStuff - functionalUnit - Behavioral</ClosedNode>
+         <ClosedNode>/datapath - Behavioral U:|CS|Archit|Before Final Lab|BLab1|datapath.vhd/regFile - register_file - Behavioral</ClosedNode>
+         <ClosedNode>/datapath_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|datapath_tb.vhd/uut - datapath - Behavioral/funStuff - functionalUnit - Behavioral</ClosedNode>
+         <ClosedNode>/datapath_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|datapath_tb.vhd/uut - datapath - Behavioral/funStuff - functionalUnit - Behavioral/arithmeticLogicUnit - arithLogUnit - Behavioral/logicCircuit - LogiCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/datapath_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|datapath_tb.vhd/uut - datapath - Behavioral/regFile - register_file - Behavioral</ClosedNode>
+         <ClosedNode>/funUnitTest - behavior U:|CS|Archit|BLab1|funUnitTest.vhd/uut - functionalUnit - Behavioral/arithmeticLogicUnit - arithLogUnit - Behavioral/logicCircuit - LogiCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/funUnitTest - behavior U:|CS|Archit|Before Final Lab|BLab1|funUnitTest.vhd</ClosedNode>
+         <ClosedNode>/funUnitTest - behavior U:|CS|Archit|Before Final Lab|BLab1|funUnitTest.vhd/uut - functionalUnit - Behavioral</ClosedNode>
+         <ClosedNode>/funUnitTest - behavior U:|CS|Archit|Before Final Lab|BLab1|funUnitTest.vhd/uut - functionalUnit - Behavioral/arithmeticLogicUnit - arithLogUnit - Behavioral/arithmeticCircuit - arithCirc - Behavioral/rippleAdder - adder16 - Behavioral</ClosedNode>
+         <ClosedNode>/funUnitTest - behavior U:|CS|Archit|Before Final Lab|BLab1|funUnitTest.vhd/uut - functionalUnit - Behavioral/arithmeticLogicUnit - arithLogUnit - Behavioral/logicCircuit - LogiCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/funUnitTest - behavior U:|CS|Archit|Before Final Lab|BLab1|funUnitTest.vhd/uut - functionalUnit - Behavioral/shifter - shifter16 - Behavioral</ClosedNode>
+         <ClosedNode>/functionalUnit - Behavioral U:|CS|Archit|BLab1|functionalUnit.vhd/arithmeticLogicUnit - arithLogUnit - Behavioral</ClosedNode>
+         <ClosedNode>/functionalUnit - Behavioral U:|CS|Archit|BLab1|functionalUnit.vhd/arithmeticLogicUnit - arithLogUnit - Behavioral/logicCircuit - LogiCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/functionalUnit - Behavioral U:|CS|Archit|BLab1|functionalUnit.vhd/shifter - shifter16 - Behavioral</ClosedNode>
+         <ClosedNode>/h_adderTest - behavior U:|CS|Archit|Before Final Lab|BLab1|h_adderTest.vhd</ClosedNode>
+         <ClosedNode>/instructionRegister_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|instructionRegister_tb.vhd</ClosedNode>
+         <ClosedNode>/logicCircuitTest - behavior U:|CS|Archit|BLab1|logicCircuitTest.vhd/uut - LogiCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/logicCircuitTest - behavior U:|CS|Archit|Before Final Lab|BLab1|logicCircuitTest.vhd</ClosedNode>
+         <ClosedNode>/logicCircuitTest - behavior U:|CS|Archit|Before Final Lab|BLab1|logicCircuitTest.vhd/uut - LogiCircuit - Behavioral</ClosedNode>
+         <ClosedNode>/mux2to1 - behavior U:|CS|Archit|Before Final Lab|BLab1|mux2to1.vhd</ClosedNode>
+         <ClosedNode>/mux2to1_8bit_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|mux2to1_8bit_tb.vhd</ClosedNode>
+         <ClosedNode>/mux4_2_1_test - behavior U:|CS|Archit|Before Final Lab|BLab1|mux4_2_1_test.vhd</ClosedNode>
+         <ClosedNode>/mux821_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|mux821_tb.vhd</ClosedNode>
+         <ClosedNode>/regReset_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|regReset_tb.vhd</ClosedNode>
+         <ClosedNode>/register_file - Behavioral U:|CS|Archit|Before Final Lab|BLab1|register__File.vhd</ClosedNode>
+         <ClosedNode>/register_file - Behavioral U:|CS|Archit|Before Final Lab|BLab1|register_file.vhd</ClosedNode>
+         <ClosedNode>/reister_file_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|reister_file_tb.vhd/uut - register_file - Behavioral</ClosedNode>
+         <ClosedNode>/rippleAdrTest - behavior U:|CS|Archit|BLab1|rippleAdrTest.vhd/uut - adder16 - Behavioral</ClosedNode>
+         <ClosedNode>/rippleAdrTest - behavior U:|CS|Archit|Before Final Lab|BLab1|rippleAdrTest.vhd</ClosedNode>
+         <ClosedNode>/shitfterTest - behavior U:|CS|Archit|BLab1|shitfterTest.vhd/uut - shifter16 - Behavioral</ClosedNode>
+         <ClosedNode>/shitfterTest - behavior U:|CS|Archit|Before Final Lab|BLab1|shitfterTest.vhd</ClosedNode>
+         <ClosedNode>/testbench - behavior U:|CS|Archit|BLab1|functionUnitTest.vhd</ClosedNode>
+         <ClosedNode>/testbench - behavior U:|CS|Archit|BLab1|functionUnitTests.vhd</ClosedNode>
+         <ClosedNode>/zeroDetectTest - behavior U:|CS|Archit|Before Final Lab|BLab1|zeroDetectTest.vhd</ClosedNode>
+         <ClosedNode>/zeroFill_tb - behavior U:|CS|Archit|Before Final Lab|BLab1|zeroFill_tb.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>uut - memory - Behavioral (U:/CS/Archit/Before Final Lab/BLab1/memory.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >12</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000206000000020000000000000000000000000200000064ffffffff000000810000000300000002000002060000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>uut - memory - Behavioral (U:/CS/Archit/Before Final Lab/BLab1/memory.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+</Project>

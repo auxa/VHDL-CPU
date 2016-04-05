@@ -1,0 +1,4 @@
+vhdl isim_temp "half_adder.vhd"
+vhdl isim_temp "register8bitWide.vhd"
+vhdl isim_temp "addr8bitwide.vhd"
+vhdl isim_temp "ControlAddrRegister.vhd"

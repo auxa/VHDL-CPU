@@ -1,0 +1,3 @@
+vhdl work "half_adder.vhd"
+vhdl work "adder16.vhd"
+vhdl work "arithCirc.vhd"

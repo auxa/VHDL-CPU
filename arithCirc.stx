@@ -1,0 +1,41 @@
+Release 13.2 - xst O.61xd (nt64)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to U:/CS/Archit/BLab1/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> Parameter xsthdpdir set to U:/CS/Archit/BLab1/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/half_adder.vhd" in Library work.
+Architecture behavioral of Entity half_adder is up to date.
+Compiling vhdl file "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/adder16.vhd" in Library work.
+Architecture behavioral of Entity adder16 is up to date.
+Compiling vhdl file "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/arithCirc.vhd" in Library work.
+Entity <arithcirc> compiled.
+ERROR:HDLParsers:3312 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/arithCirc.vhd" Line 55. Undefined symbol 'c'.
+ERROR:HDLParsers:1209 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/arithCirc.vhd" Line 55. c: Undefined symbol (last report in this block)
+ERROR:HDLParsers:851 - "//tholos.itserv.scss.tcd.ie/ugrad/jfitzpa1/CS/Archit/BLab1/arithCirc.vhd" Line 49. Formal z of adder16 with no default value must be associated with an actual value.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.48 secs
+ 
+--> 
+
+Total memory usage is 194520 kilobytes
+
+Number of errors   :    3 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,5 @@
+set -tmpdir "U:/CS/Archit/Before Final Lab/BLab1/xst/projnav.tmp"
+set -xsthdpdir "U:/CS/Archit/Before Final Lab/BLab1/xst"
+elaborate
+-ifn controlMemory.prj
+-ifmt mixed
