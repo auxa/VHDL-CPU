@@ -44,38 +44,34 @@ begin
 	mem_process: process (address, write_data)
 	-- initialize data memory, X denotes hexadecimal number
 	variable data_mem : mem_array := (
-	X"0000", --load next instruction 
-	X"0603", --load 3 into register 0
-	X"0802", --ADI 2 and R0 into R0, R0 = 5 0101
-	X"0802", -- same as above			R0 =7 0111
-	X"0802", -- same as above, just for kicks, R0 =9 1001
-	X"0A00", -- SR R0 into R0, R0 =4 100
-	X"0C00", -- INC R0			R0 =5 101
-	X"0E00", -- NOT R0 into R0 R0 = not(101)
-	X"0E00", -- NOT R0 into R0 R0 = not(101), just to make the register
-	--				workable again. R0=5
-	X"0642", -- load 2 into R1, for purposes of addition
-	X"1001", -- add R0 and R1 into R0, R0=7 (0111)
-	X"1204", -- uncondition branch (offset = 4), next 3 instructions should be skipped
-	--the address will be address + 4, thus the instruction at address + 4 will be
-	--executed
-	X"0802", --ADI 2 and R0 into R0, R0 = 9 if this were not skipped (address+1)
-	X"0802", --ADI 2 and R0 into R0, R0 = 11 if this were not skipped (address+2)
-	X"0802", --ADI 2 and R0 into R0, R0 = 13 if this were not skipped (address+3)
-	X"0805", --ADI -3 and R0 into R0, if branch successful, R0=4 
-	X"0600", --load 0 into register 0, setting the Z flag
-	X"1403", --branch if Z is set. Branch offset = 3
-	X"0802", --ADI 2 and R0 into R0, R0 = 2 if this were not skipped (address+2)
-	X"0802", --ADI 2 and R0 into R0, R0 = 4 if this were not skipped (address+3)
-	X"0803", --ADI 3 and R0. R0=3, as previous two instructions were skipped
-	X"1403", --branch if Z is set. Branch offset = 3
-	X"0803", --ADI 2 and R0 into R0, R0 = 6 as this was not skipped, huzzah
-	--screenshots attached, or just run the code I submitted. Altough that's probably
-	--a lot of work.
+	X"0000", 
+	X"0603", 
+	X"0802", 
+	X"0802", 
+	X"0802", 
+	X"0A00", 
+	X"0C00",
+	X"0E00",
+	X"0E00", 
+	X"0642", 
+	X"1001", 
+	X"1204", 
+	X"0802",
+	X"0802", 
+	X"0802", 
+	X"0805", 
+	X"0600", 
+	X"1403", 
+	X"0802",
+	X"0802", 
+	X"0803",
+	X"1403", 
+	X"0803", 
+
 	
 	others=> X"0000");
 	variable addr:integer;
-	begin -- the following type conversion function is in std_logic_arith
+	begin
 	addr:=conv_integer(unsigned(address(2 downto 0)));
 	if MemWrite ='1' then
 		data_mem(addr):= write_data;
